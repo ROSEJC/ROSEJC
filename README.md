@@ -16,24 +16,25 @@
 ## 🚀 Tech Stack
 
 ### 🧠 Languages:
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Python](https://www.svgrepo.com/show/452091/python.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 
 ### 🌐 Frontend:
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+
 ### 🔧 Backend:
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 
 ### 🗃️ Database:
-![SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 
 ### 🛠️ Tools & Others:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
@@ -49,5 +50,4 @@
 - 🌐 Facebook: [facebook.com/tran.hai.ong.997015](https://facebook.com/tran.hai.ong.997015)
 
 ---
-
 
