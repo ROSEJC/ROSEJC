@@ -32,7 +32,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 
 ### 🗃️ Database:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
 ### 🛠️ Tools & Others:
