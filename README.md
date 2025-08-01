@@ -50,9 +50,4 @@
 
 ---
 
-## 📊 GitHub Stats (Optional)
 
-> Bạn có thể thêm phần này nếu bạn đã có commit history kha khá
-
-```md
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROSEJC&show_icons=true&theme=tokyonight)
