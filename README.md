@@ -1,34 +1,58 @@
 # 👋 Hello there! I'm Tran Hai Dong
 
-🎓 I'm currently a student at the University of Information Technology – VNUHCM, majoring in Information Science and Engineering.
+🎓 I'm currently a student at the **University of Information Technology – VNUHCM**, majoring in **Information Science and Engineering**.
 
 ---
 
 ## 💡 About Me
 
-- 🌱 I’m passionate about learning new technologies and turning ideas into real-world software.
-- 🛠️ I enjoy building apps that are clean, efficient, and user-friendly.
-- 💬 I love collaborating on open-source projects and solving real-world problems with code.
-- 📚 Currently focusing on: **Web development**, **Game Developing**, and **Machine learning**.
+- 🌱 Passionate about learning new technologies and turning ideas into real-world software.
+- 🛠️ Enjoy building apps that are clean, efficient, and user-friendly.
+- 💬 Love collaborating on open-source projects and solving real-world problems with code.
+- 📚 Currently focusing on: **Web Development**, **Game Development**, and **Machine Learning**.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java ,JavaScript, Python, C++, C#
-- **Frontend**: HTML, CSS, ReactJS
-- **Backend**: Node.js, Express
-- **Database**: MySQL, PostgreSQL 
-- **Tools**: Git, VSCode, Postman, Docker (basic)
+### 🧠 Languages:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+
+### 🌐 Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+
+### 🔧 Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+
+### 🗃️ Database:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+
+### 🛠️ Tools & Others:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ---
 
+## 📫 How to Reach Me
 
-## 📫 How to reach me
-
-- Email: [trhaidong2005@gmail.com]
-- Facebook: https://www.facebook.com/tran.hai.ong.997015/
+- 📧 Email: [trhaidong2005@gmail.com](mailto:trhaidong2005@gmail.com)
+- 🌐 Facebook: [facebook.com/tran.hai.ong.997015](https://facebook.com/tran.hai.ong.997015)
 
 ---
 
+## 📊 GitHub Stats (Optional)
 
+> Bạn có thể thêm phần này nếu bạn đã có commit history kha khá
+
+```md
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROSEJC&show_icons=true&theme=tokyonight)
