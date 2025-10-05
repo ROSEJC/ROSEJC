@@ -1,4 +1,5 @@
 # こんにちは! I'm Tran Hai Dong
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=👾%20Hello%20World!%20I'm%20Tran%20Hai%20Dong%20👾&fontSize=35&fontAlignY=38&animation=twinkling&fontColor=00ffff&desc=Living%20in%20code%20and%20Tokyo%20lights%20💫&descAlignY=60)
 
 🎓 I'm currently a student at the University of Information Technology – VNUHCM, majoring in Information Science and Engineering
 
