@@ -1,6 +1,6 @@
-# 👋 Hello there! I'm Tran Hai Dong
+# こんにちは! (Konnichiwa!) I'm Tran Hai Dong
 
-🎓 I'm currently a student at the **University of Information Technology – VNUHCM**, majoring in **Information Science and Engineering**.
+🎓 I'm currently a student at the University of Information Technology – VNUHCM, majoring in Information Science and Engineering
 
 ---
 
