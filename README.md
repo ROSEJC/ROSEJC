@@ -1,4 +1,4 @@
-# こんにちは! I'm Tran Hai Dong
+# こんにちは、私は海東です。
 
 
 🎓 I'm currently a student at the University of Information Technology – VNUHCM, majoring in Information Science and Engineering
